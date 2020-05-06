@@ -72,9 +72,35 @@ Ich als Inhaber habe Partner, von welchen ich einzelne Bilder auf eine Unterseit
 
 ## Wireframes
 
-  - [Startseite](https://wireframe.cc/RsQ2lj)
-  - [Startseite Mobile](https://wireframe.cc/K4gVzM)
-  - [Bilder](https://wireframe.cc/myviSo)
+### Startseite
+
+![Startseite](https://github.com/lucbu01/M152/blob/master/Wireframes/Startseite.png)
+
+[bearbeiten](https://wireframe.cc/RsQ2lj)
+
+#### Mobile
+![Startseite Mobile](https://github.com/lucbu01/M152/blob/master/Wireframes/Startseite_Mobile.png)
+
+[bearbeiten](https://wireframe.cc/K4gVzM)
+
+
+### Bilder
+![Startseite Mobile](https://github.com/lucbu01/M152/blob/master/Wireframes/Bilder.png)
+
+[bearbeiten](https://wireframe.cc/myviSo)
+
+#### Mobile
+![Startseite Mobile](https://github.com/lucbu01/M152/blob/master/Wireframes/Bilder_Mobile.png)
+
   - [Bilder Mobile](https://wireframe.cc/8GgLEm)
-  - [Partner](https://wireframe.cc/wpRuuR)
-  - [Partner Mobile](https://wireframe.cc/A0Bgo4)
+
+
+### Partner
+![Startseite Mobile](https://github.com/lucbu01/M152/blob/master/Wireframes/Partner.png)
+
+  - [bearbeiten](https://wireframe.cc/wpRuuR)
+
+#### Mobile
+![Startseite Mobile](https://github.com/lucbu01/M152/blob/master/Wireframes/Partner_Mobile.png)
+
+  - [bearbeiten](https://wireframe.cc/A0Bgo4)
