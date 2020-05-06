@@ -92,15 +92,15 @@ Ich als Inhaber habe Partner, von welchen ich einzelne Bilder auf eine Unterseit
 #### Mobile
 ![Startseite Mobile](https://github.com/lucbu01/M152/blob/master/Wireframes/Bilder_Mobile.png)
 
-  - [Bilder Mobile](https://wireframe.cc/8GgLEm)
+ [Bilder Mobile](https://wireframe.cc/8GgLEm)
 
 
 ### Partner
 ![Startseite Mobile](https://github.com/lucbu01/M152/blob/master/Wireframes/Partner.png)
 
-  - [bearbeiten](https://wireframe.cc/wpRuuR)
+ [bearbeiten](https://wireframe.cc/wpRuuR)
 
 #### Mobile
 ![Startseite Mobile](https://github.com/lucbu01/M152/blob/master/Wireframes/Partner_Mobile.png)
 
-  - [bearbeiten](https://wireframe.cc/A0Bgo4)
+ [bearbeiten](https://wireframe.cc/A0Bgo4)
