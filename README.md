@@ -5,6 +5,7 @@ Projekt für das Modul 152
    - [Personas](#personas)
    - [User Stories](#user-stories)
    - [Elemente](#elemente)
+ - [Wireframes](#wireframes)
 
 ## Projektbeschrieb
 Wir erstellen eine Webseite für einen Hobbyfotografen, der auf der Webseite seine Bilder und Videos Veröffentlicht.
@@ -66,3 +67,14 @@ Ich als Inhaber habe Partner, von welchen ich einzelne Bilder auf eine Unterseit
  - Selbst erstellte Bilder (Pixelgrafik)
  - Eine selbst erstellte Videosequenz (Direkt eingebunden)
  - Bild aus dem Web (Urheberrecht berücksichtigen)
+
+
+
+## Wireframes
+
+  - [Startseite](https://wireframe.cc/RsQ2lj)
+  - [Startseite Mobile](https://wireframe.cc/K4gVzM)
+  - [Bilder](https://wireframe.cc/myviSo)
+  - [Bilder Mobile](https://wireframe.cc/8GgLEm)
+  - [Partner](https://wireframe.cc/wpRuuR)
+  - [Partner Mobile](https://wireframe.cc/A0Bgo4)
