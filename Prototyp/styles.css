@@ -1,6 +1,6 @@
 iframe {
     margin: 0 auto;
-    display:block;
+    display: block;
 }
 
 main {
@@ -25,7 +25,8 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-header {
+header,
+header div {
     top: 0px;
     left: 0px;
     display: flex;
@@ -33,6 +34,7 @@ header {
     background-color: lightgray;
     padding: 5px 10px;
     align-items: center;
+    justify-content: space-between;
 }
 
 header .title {
@@ -42,4 +44,85 @@ header .title {
 header img {
     height: 30px;
     margin-left: 10px;
+}
+
+nav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+nav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+nav a:hover {
+    color: #f1f1f1;
+}
+
+nav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {
+        padding-top: 15px;
+    }
+
+    .sidenav a {
+        font-size: 18px;
+    }
+}
+
+@media (min-width: 768px) {
+    nav {
+        display: flex;
+        width: auto;
+        height: auto;
+        transition: none;
+        z-index: 0;
+        background-color: unset;
+        padding-top: 0;
+        position: relative;
+    }
+
+    nav a {
+        display: block;
+        margin: 0 5px;
+        padding: 5px 10px;
+        background-color: gray;
+        color: white;
+        text-decoration: none;
+        font-size: 16px;
+        transition: none;
+    }
+
+    nav a.current {
+        font-weight: bold;
+        background-color: black;
+    }
+
+    nav .closebtn {
+        display: none;
+    }
+
+    .menu-button {
+        display: none;
+    }
 }
