@@ -97,6 +97,11 @@ p.collection img {
     max-width: 100%;
 }
 
+iframe.video {
+    height: calc(100vh - 350px);
+    min-height: 300px;
+}
+
 div.partner:hover,
 div.partner:active {
     background-color: #f1f1f1;
@@ -175,5 +180,9 @@ div.partner:active {
 
     p.collection {
         grid-template-columns: auto auto auto;
+    }
+
+    iframe.video {
+        min-height: 400px;
     }
 }
