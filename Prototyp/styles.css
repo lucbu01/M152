@@ -87,8 +87,19 @@ div.partner {
     padding: 5px 10px;
 }
 
-div.partner:hover, div.partner:active {
-    background-color: #f1f1f1 ;
+p.collection {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: auto auto;
+}
+
+p.collection img {
+    max-width: 100%;
+}
+
+div.partner:hover,
+div.partner:active {
+    background-color: #f1f1f1;
 }
 
 @media screen and (max-height: 450px) {
@@ -136,7 +147,7 @@ div.partner:hover, div.partner:active {
     .menu-button {
         display: none;
     }
-    
+
     div.partner {
         display: grid;
         grid-template-columns: 30% auto;
@@ -153,12 +164,16 @@ div.partner:hover, div.partner:active {
         align-items: center;
     }
 
-    div.partner img{
+    div.partner img {
         width: 100%;
     }
 
     div.container {
         margin: 0 auto;
         max-width: 1400px;
+    }
+
+    p.collection {
+        grid-template-columns: auto auto auto;
     }
 }
