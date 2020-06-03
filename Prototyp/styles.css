@@ -80,6 +80,17 @@ nav .closebtn {
     margin-left: 50px;
 }
 
+div.partner {
+    display: block;
+    text-decoration: none;
+    color: black;
+    padding: 5px 10px;
+}
+
+div.partner:hover, div.partner:active {
+    background-color: #f1f1f1 ;
+}
+
 @media screen and (max-height: 450px) {
     .sidenav {
         padding-top: 15px;
@@ -124,5 +135,30 @@ nav .closebtn {
 
     .menu-button {
         display: none;
+    }
+    
+    div.partner {
+        display: grid;
+        grid-template-columns: 30% auto;
+        grid-gap: 10px;
+    }
+
+    div.partner div {
+        text-align: left;
+    }
+
+    div.partner div.image {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    div.partner img{
+        width: 100%;
+    }
+
+    div.container {
+        margin: 0 auto;
+        max-width: 1400px;
     }
 }
