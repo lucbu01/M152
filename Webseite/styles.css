@@ -42,17 +42,30 @@ header div {
 
 header .title {
     margin: 0px 20px;
-    font-weight: bold;
+    font-size: 1.8em;
 }
 
 header img {
     height: 30px;
-    margin-left: 10px;
+    margin-left: 20px;
 }
 
 .menu-button {
-    font-weight: bold;
+    height: 20px;
     cursor: pointer;
+    display: grid;
+    grid-gap: 5px;
+    grid-template-rows: auto auto auto;
+    width: 25px;
+}
+
+.menu-button .line {
+    background-color: #D9D9D9;
+    height: 100%;
+}
+
+.menu-button:hover .line {
+    background-color: #3C6E71;
 }
 
 nav {
@@ -130,6 +143,10 @@ div.partner:active {
 }
 
 @media (min-width: 768px) {
+    header img {
+        margin-left: 0px;
+    }
+
     nav {
         display: flex;
         width: auto;
