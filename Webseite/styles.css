@@ -75,6 +75,7 @@ nav {
     z-index: 1;
     top: 0;
     left: 0;
+    bottom: 0;
     background-color: #353535;
     overflow-x: hidden;
     transition: 0.5s;
@@ -103,6 +104,10 @@ nav .closebtn {
     right: 25px;
     font-size: 36px;
     margin-left: 50px;
+}
+
+nav.show {
+    width: 250px;
 }
 
 div.partner {
@@ -147,7 +152,7 @@ div.partner:active {
         margin-left: 0px;
     }
 
-    nav {
+    nav, nav.show {
         display: flex;
         width: auto;
         height: auto;
@@ -175,6 +180,7 @@ div.partner:active {
 
     nav a:hover {
         background-color: #284b63;
+        color: #FFFFFF;
     }
 
     nav a.current {

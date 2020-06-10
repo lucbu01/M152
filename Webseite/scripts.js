@@ -1,9 +1,15 @@
 function openNav() {
-    document.getElementById("navigation").style.width = "250px";
-    document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
+    let navbar = document.getElementById("navigation");
+
+    if (!navbar.classList.contains("show")) {
+        navbar.classList.add("show");
+    }
 }
 
 function closeNav() {
-    document.getElementById("navigation").style.width = "0";
-    document.body.style.backgroundColor = "white";
+    let navbar = document.getElementById("navigation");
+
+    if (navbar.classList.contains("show")) {
+        navbar.classList.remove("show");
+    }
 }
