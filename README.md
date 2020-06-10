@@ -6,6 +6,7 @@ Projekt für das Modul 152
    - [User Stories](#user-stories)
    - [Elemente](#elemente)
  - [Wireframes](#wireframes)
+ - [Farbschema](#farbschema)
 
 ## Projektbeschrieb
 Wir erstellen eine Webseite für einen Hobbyfotografen, der auf der Webseite seine Bilder und Videos Veröffentlicht.
@@ -104,3 +105,7 @@ Ich als Inhaber habe Partner, von welchen ich einzelne Bilder auf eine Unterseit
 ![Startseite Mobile](https://github.com/lucbu01/M152/blob/master/Wireframes/Partner_Mobile.png)
 
  [bearbeiten](https://wireframe.cc/A0Bgo4)
+
+## Farbschema
+
+[öffnen](https://coolors.co/353535-3c6e71-ffffff-d9d9d9-284b63)
