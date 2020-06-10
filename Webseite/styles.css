@@ -41,12 +41,18 @@ header div {
 }
 
 header .title {
-    margin-left: 10px;
+    margin: 0px 20px;
+    font-weight: bold;
 }
 
 header img {
     height: 30px;
     margin-left: 10px;
+}
+
+.menu-button {
+    font-weight: bold;
+    cursor: pointer;
 }
 
 nav {
@@ -56,23 +62,26 @@ nav {
     z-index: 1;
     top: 0;
     left: 0;
-    background-color: #111;
+    background-color: #353535;
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
+    -webkit-box-shadow: 5px 0px 20px 0px rgba(40,75,99,1);
+    -moz-box-shadow: 5px 0px 20px 0px rgba(40,75,99,1);
+    box-shadow: 5px 0px 20px 0px rgba(40,75,99,1);
 }
 
 nav a {
     padding: 8px 8px 8px 32px;
     text-decoration: none;
     font-size: 25px;
-    color: #818181;
+    color: #D9D9D9;
     display: block;
     transition: 0.3s;
 }
 
 nav a:hover {
-    color: #f1f1f1;
+    color: #3C6E71;
 }
 
 nav .closebtn {
@@ -130,6 +139,9 @@ div.partner:active {
         background-color: unset;
         padding-top: 0;
         position: relative;
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+        box-shadow: none;
     }
 
     nav a {
@@ -141,6 +153,7 @@ div.partner:active {
         text-decoration: none;
         font-size: 16px;
         transition: none;
+        font-weight: bold;
     }
 
     nav a:hover {
