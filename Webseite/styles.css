@@ -1,4 +1,4 @@
-iframe {
+video {
     margin: 0 auto;
     display: block;
 }
@@ -66,6 +66,7 @@ header div {
     padding: 5px 10px;
     align-items: center;
     justify-content: space-between;
+    z-index: 10;
 }
 
 header .title {
@@ -155,9 +156,9 @@ p.collection img {
     max-width: 100%;
 }
 
-iframe.video {
-    height: calc(100vh - 350px);
-    min-height: 300px;
+video {
+    width: calc(100vh - 350px);
+    min-width: 300px;
 }
 
 div.partner:hover,
@@ -272,7 +273,7 @@ div.partner:active {
         grid-template-columns: auto auto auto;
     }
 
-    iframe.video {
-        min-height: 400px;
+    video {
+        width: calc(100vh - 100px);
     }
 }
