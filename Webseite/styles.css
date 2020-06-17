@@ -21,6 +21,34 @@ footer {
     padding: 5px 10px;
 }
 
+footer .container {
+    display: flex;
+    align-items: center;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+footer .container div {
+    margin: 0 10px;
+}
+
+footer .ig {
+    width: 50px;
+    margin: 5px;
+}
+
+footer .instaname {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+footer .instaname div {
+    margin: 5px;
+    font-style: italic;
+}
+
 body {
     margin: 0px;
     color: #353535;
@@ -147,6 +175,16 @@ div.partner:active {
     }
 }
 
+@media screen and (max-width: 350px) {
+    footer .container {
+        font-size: 0.9em;
+    }
+
+    header .title {
+        font-size: 1.6em;
+    }
+}
+
 @media (min-width: 768px) {
     header img {
         margin-left: 0px;
@@ -195,6 +233,14 @@ div.partner:active {
 
     .menu-button {
         display: none;
+    }
+    
+    footer .instaname {
+        flex-direction: row;
+    }
+
+    footer .instaname div {
+        font-size: 1.2em;
     }
 
     div.partner {
