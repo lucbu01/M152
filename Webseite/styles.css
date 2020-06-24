@@ -166,6 +166,11 @@ div.partner:active {
     background-color: #f1f1f1;
 }
 
+div.partner img {
+    max-height: 150px;
+    max-width: 100%;
+}
+
 @media screen and (max-height: 450px) {
     .sidenav {
         padding-top: 15px;
@@ -261,7 +266,7 @@ div.partner:active {
     }
 
     div.partner img {
-        width: 100%;
+        max-height: 250px;
     }
 
     div.container {

@@ -34,7 +34,7 @@ Wir erstellen eine Webseite für einen Hobbyfotografen, der auf der Webseite sei
  - Wohnt in Wallisellen
  - Arbeitet als Kameramann fürs Schweizer Fernsehem
  - Interessiert sich für Fotografie
- - Wurde von einem Parter des Inhabers auf die Webseite weitergeleitet
+ - Kam über Social Media auf die Webseite
 
 #### Samantha
  - 19 Jahre alt
@@ -58,8 +58,8 @@ Als Inhaber der webseite möchte ich mich mit einem einmaligen Logo identifizier
 #### Überblick
 Damit die Besucher einen groben Überblick über meine Tätigkeiten habe, möchte ich als Inhaber einen Zusammenschnitt Unterschiedlicher Aufnahmen in Videoform auf der Webseite präsentieren.
 
-#### Partner
-Ich als Inhaber habe Partner, von welchen ich einzelne Bilder auf eine Unterseite präsentiere, um auf sie aufmerksam zu machen. Diese Bilder haben die Partner auch auf ihren Webseiten schon hochgeladen.
+#### Social Media
+Ich als Inhaber habe verschiedene Social Media Accounts, auf welchen ich mich präsentiere. Nicht alle Bilder landen auf der Webseite, deshalb möchte ich meine Besucher auch über meine Social Media Accounts aufklären.
 
 
 ### Elemente
@@ -96,7 +96,7 @@ Ich als Inhaber habe Partner, von welchen ich einzelne Bilder auf eine Unterseit
  [Bilder Mobile](https://wireframe.cc/8GgLEm)
 
 
-### Partner
+### Social Media
 ![Startseite Mobile](https://github.com/lucbu01/M152/blob/master/Wireframes/Partner.png)
 
  [bearbeiten](https://wireframe.cc/wpRuuR)
