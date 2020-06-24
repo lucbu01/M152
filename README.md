@@ -114,7 +114,8 @@ Ich als Inhaber habe verschiedene Social Media Accounts, auf welchen ich mich pr
 
 ### Farbschema
 Wir wollten ein möglichst unauffäliges Desgin. Nur Schwarz und Weiss hat uns aber nicht gefallen. Deshalb haben wir uns für dieses Farbschema mit den zwei unauffäligen Blautönen als Akzentfarbe entschieden. Zudem haben wir anstelle von Schwarz ein Dunkelgrau genommen und für die Schattierungen ein Hellgrau.
-[öffnen](https://coolors.co/353535-3c6e71-ffffff-d9d9d9-284b63)
+
+[Farbschema öffnen](https://coolors.co/353535-3c6e71-ffffff-d9d9d9-284b63)
 
 ### Aufbau
 Wir haben oben eine Titelleiste mit Informationen über die Webseite, wie zum Beispiel dem Logo und bei grossen Bildschirmen die Navigationsleiste. Diese wurde bei kleineren Bildschirmen als Seitennavigation eingebaut, die über das Hamburger-Icon aufgeruft werden kann. Für das Icon haben wir uns entschieden, da es heute Standard ist und die meisten sofort verstehen, für was es ist. Wichtig für unser Beispiel, Kevin Müller, ist es, dass die Besucher der Webseite ihn recht schnell kontaktieren können. Deshalb wird der Footer mit seinen Kontaktdaten permanent eingeblendet und ist nicht erst am unteren Ende der Webseite zu sehen. Für das einfachere Lesen des Inhaltes haben wir uns für die Maximalbreite von 1400 Pixel entschieden. Zudem werden Inhalte je nach Bildschirmgrösse nebeneinander oder untereinander angezeigt. Die Haupttexte sind zentriert und bei der Unterseite Social Media haben wir uns für die Texte auf Linksbündig entschieden, ausgenommen ist dabei die Mobile Darstellung.
