@@ -6,7 +6,11 @@ Projekt für das Modul 152
    - [User Stories](#user-stories)
    - [Elemente](#elemente)
  - [Wireframes](#wireframes)
- - [Farbschema](#farbschema)
+ - [Design Entscheidungen](#design-entscheidungen)
+   - [Farbschema](#farbschema)
+   - [Aufbau](#aufbau)
+   - [Einfluss Persona](#einfluss-persona)
+   - [Copyright](#copyright)
 
 ## Projektbeschrieb
 Wir erstellen eine Webseite für einen Hobbyfotografen, der auf der Webseite seine Bilder und Videos Veröffentlicht.
@@ -106,6 +110,19 @@ Ich als Inhaber habe verschiedene Social Media Accounts, auf welchen ich mich pr
 
  [bearbeiten](https://wireframe.cc/A0Bgo4)
 
-## Farbschema
+## Design Entscheidungen
 
+### Farbschema
+Wir wollten ein möglichst unauffäliges Desgin. Nur Schwarz und Weiss hat uns aber nicht gefallen. Deshalb haben wir uns für dieses Farbschema mit den zwei unauffäligen Blautönen als Akzentfarbe entschieden. Zudem haben wir anstelle von Schwarz ein Dunkelgrau genommen und für die Schattierungen ein Hellgrau.
 [öffnen](https://coolors.co/353535-3c6e71-ffffff-d9d9d9-284b63)
+
+### Aufbau
+Wir haben oben eine Titelleiste mit Informationen über die Webseite, wie zum Beispiel dem Logo und bei grossen Bildschirmen die Navigationsleiste. Diese wurde bei kleineren Bildschirmen als Seitennavigation eingebaut, die über das Hamburger-Icon aufgeruft werden kann. Für das Icon haben wir uns entschieden, da es heute Standard ist und die meisten sofort verstehen, für was es ist. Wichtig für unser Beispiel, Kevin Müller, ist es, dass die Besucher der Webseite ihn recht schnell kontaktieren können. Deshalb wird der Footer mit seinen Kontaktdaten permanent eingeblendet und ist nicht erst am unteren Ende der Webseite zu sehen. Für das einfachere Lesen des Inhaltes haben wir uns für die Maximalbreite von 1400 Pixel entschieden. Zudem werden Inhalte je nach Bildschirmgrösse nebeneinander oder untereinander angezeigt. Die Haupttexte sind zentriert und bei der Unterseite Social Media haben wir uns für die Texte auf Linksbündig entschieden, ausgenommen ist dabei die Mobile Darstellung.
+
+### Einfluss Persona
+Zwei der Personas sind auf der Suche nach einem Fotografen und daher wird auf der Startseite Kevin vorgestellt. Zudem sind seine Kontaktdaten auf den ersten Blick erkennbar. Für interessierte an Kevins Fotos ist es sehr leicht über die Navigationsleiste zu erkennen, wo sie die Bilder finden. Wenn sie noch intressiert sind nach weiteren Fotos, werden sie über die Social Media Seite darauf hingewiesen, wo sie diese finden können.
+
+### Copyright
+Unsere Zwei Bilder aus dem Internet, die wir verwendet haben, sind lizenzfrei und benötigen keine Angaben zum Ersteller.
+- [Bild 1 (Instagramm)](https://pixabay.com/de/illustrations/symbol-wichtig-instagram-2016-app-1562139/)
+- [Bild 2 (Pixabay)](https://pixabay.com/de/illustrations/pixabay-logo-design-3d-3951079/)
